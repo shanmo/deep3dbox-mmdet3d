@@ -1,6 +1,6 @@
 # about 
 
-- use mmengine to train on kitti dataset 
+- [WIP] use mmdet3d to implement `deep3dbox` and train on kitti dataset 
 
 # prepare dataset 
 
